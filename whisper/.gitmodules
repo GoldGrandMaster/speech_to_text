@@ -1,0 +1,12 @@
+[submodule "feature_extractor"]
+	path = feature_extractor
+	url = https://github.com/BrossTeam/feature_extractor.git
+[submodule "audio_systems"]
+	path = audio_systems
+	url = https://github.com/BrossTeam/audio_systems.git
+[submodule "benchmark"]
+	path = benchmark
+	url = https://github.com/BrossTeam/benchmark.git
+[submodule "CTranslate2"]
+	path = CTranslate2
+	url = https://github.com/OpenNMT/CTranslate2.git
